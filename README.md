@@ -6,6 +6,10 @@ whatapp_clone has similar UI like WhatsApp web and has real time messaging funct
 
 
 
+https://user-images.githubusercontent.com/65702724/143549216-b46ea4fd-00b5-4d29-9f08-e278cf1ecf9a.mp4
+
+
+
 ## Steps to access it locally➡️
 
 ##### Commands:
